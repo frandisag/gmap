@@ -1,0 +1,7 @@
+{
+  "name": "gmaip",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
